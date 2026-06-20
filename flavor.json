@@ -1,10 +1,9 @@
 {
-  "name": "Morpheus Skill",
-  "slug": "morpheus-skill",
-  "domain": "morpheusclaw.com",
-  "description": "The canonical Morpheus decentralized AI agent skill for OpenClaw",
-  "remote": "https://github.com/profbernardoj/morpheus-skill.git",
+  "name": "Booking Claw",
+  "slug": "bookingclaw",
+  "domain": "bookingclaw.org",
+  "description": "AI agent for travel and booking",
+  "remote": "https://github.com/profbernardoj/bookingclaw.org.git",
   "defaultModel": "glm-5",
-  "persona": "Morpheus decentralized AI assistant",
-  "canonical": true
+  "persona": "Travel and booking AI assistant"
 }
